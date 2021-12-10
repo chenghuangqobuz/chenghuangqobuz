@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chenghuangqobuz
-- 👀 I’m interested in Mobile developpement, DevOps, Backend-office with micro-service, Big Data, ML
+- 👀 I’m interested in Mobile developpement, DevOps, Micro-service, Cloud development, Big Data, ML
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Mobile, Backend (API), Big Data, ML
 - 📫 How to reach me "CALL ME"
